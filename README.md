@@ -21,6 +21,10 @@ The setup process involves several steps, from initializing your cluster to depl
 ## Usage
 Once deployed, you can access Kibana and Prometheus web UIs to explore logs, metrics, and data visualizations. 
 
+![image](https://github.com/thejerrod/efkpStack/assets/25254103/5b458773-636c-4096-a5db-eb92129996a1)
+
+
+
 ## Contributing
 Contributions to the project are welcome! 
 
@@ -32,4 +36,3 @@ This project is licensed under the [MIT License](./LICENSE).
 - Elastic.co for Elasticsearch and Kibana
 - Fluentd contributors
 - Prometheus project contributors
-![image](https://github.com/thejerrod/efkpStack/assets/25254103/5b458773-636c-4096-a5db-eb92129996a1)
